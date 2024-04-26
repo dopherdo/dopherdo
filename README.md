@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a 2FA iOS application from scratch
-- 🌱 I’m currently learning Swift and NodeJS
+🔭 I’m currently working on building a 2FA iOS application from scratch  
+🌱 I’m currently learning Swift and NodeJS  
 + 💬 Ask me about my e-commerce business
 * 📫 How to reach me: cxyeh@uci.edu  <- Preferred!
 
