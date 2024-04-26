@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on building a 2FA iOS application from scratch
 - 🌱 I’m currently learning Swift and NodeJS
-💬 Ask me about my e-commerce business
-📫 How to reach me: cxyeh@uci.edu  <- Preferred!
++ 💬 Ask me about my e-commerce business
+* 📫 How to reach me: cxyeh@uci.edu  <- Preferred!
 
 <!--
 **dopherdo/dopherdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
