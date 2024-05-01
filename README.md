@@ -12,12 +12,12 @@ Languages: C++ | Python | SQL | Swift | MIPS | Java | R | CSS | HTML | Javascrip
 
 
 ## Hobbies & Interests
-☄️ Anime  
-🏀 NBA  
-🚘 BMWs  
-💳 Credit Cards  
-🎶 Music Festivals  
-⬆️ 88 (Niki)
+- ☄️ Anime  
+- 🏀 NBA  
+- 🚘 BMWs  
+- 💳 Credit Cards  
+- 🎶 Music Festivals  
+- ⬆️ 88 (Niki)
 
 
 <!--
