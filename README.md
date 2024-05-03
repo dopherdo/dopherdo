@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Chris, a CS major at UCI 🐜🍽️  
 Frameworks & Technologies: React | Node.js | CoreData | SwiftUI  
