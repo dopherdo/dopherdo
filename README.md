@@ -6,7 +6,7 @@ Languages: C++ | Python | SQL | Swift | MIPS | Java | R | CSS | HTML | Javascrip
 
 
 - 🔭 I’m currently working on building a 2FA iOS application using Swift
-- 🌐 Working as a Junior Developer at Blockchain @ UCI, I'm creating a decentralized note-taking application using smart contracts in Solidity
+- 💰 As a Junior Developer at Blockchain @ UCI, I'm creating a decentralized note-taking application using smart contracts in Solidity
 - 🌱 I’m currently learning Swift and NodeJS to get a better full-stack skillset  
 - 💬 Ask me about my e-commerce business  
 - 📫 How to reach me: cxyeh@uci.edu  <- Preferred!  
