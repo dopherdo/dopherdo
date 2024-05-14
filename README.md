@@ -18,7 +18,6 @@ Languages: C++ | Python | SQL | Swift | MIPS | Java | R | CSS | HTML | Javascrip
 - 💳 Credit Cards  
 - 🎶 Music Festivals  
 - ⬆️ 88 (Niki)
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
