@@ -19,6 +19,9 @@ Languages: C++ | Python | SQL | Swift | MIPS | Java | R | CSS | HTML | Javascrip
 - 🎶 Music Festivals  
 - ⬆️ 88 (Niki)
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!--
 **dopherdo/dopherdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
