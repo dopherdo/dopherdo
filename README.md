@@ -1,9 +1,10 @@
-## Hello there 👋  
-<div id="badges">
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <a href="https://www.linkedin.com/in/priyansh-tratiya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div>
+  </h1>
+
 
 I'm Chris, a CS major at UCI 🐜🍽️  
 Frameworks & Technologies: React | Node.js | CoreData | SwiftUI  
