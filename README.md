@@ -21,7 +21,7 @@ Languages: C++ | Python | SQL | Swift | MIPS | Java | R | CSS | HTML | Javascrip
 ## Hobbies & Interests
 - ☄️ Anime  
 - 🏀 NBA  
-- 🚘 BMWs  
+- 🚘 Cars  
 - 💳 Credit Cards  
 - 🎶 Music Festivals  
 - ⬆️ 88 (Niki)
